@@ -17,6 +17,6 @@ import static lib.Romi.*;
 public class Robot extends ProceduralRobot {
   @Override
   public void autonomousProcedure() throws InterruptedException {
-    
+    System.out.println("amog us");
   }
 }
